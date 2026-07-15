@@ -27,19 +27,32 @@ Delete: http://localhost:8083/api/v1/ecomarket/inventario/deleteprod/1
 Post: http://localhost:8083/api/v1/ecomarket/inventario/addprod
 
 PUT
-{
-    "nombre": "Coca Cola 1L",
-    "precio": 1990,
-    "stock": 25,
-    "categoria": "BEBIDAS"
-}
-
+[
+  {
+    "id": 38,
+    "nombre": "Mouse Gamer",
+    "precio": 14900,
+    "stock": 50,
+    "activo": true,
+    "descuentoPorcentaje": 0,
+    "precioFinal": 14900
+    }
+]
 http://localhost:8085/catalogo/PorNombre/pepsi 
-
+[
+  {
+    "id": 38,
+    "nombre": "Mouse Gamer",
+    "precio": 14900,
+    "stock": 50,
+    "activo": true,
+    "descuentoPorcentaje": 0,
+    "precioFinal": 14900
+  }
+]
 Swagger:
-http://localhost:8085/swagger-ui/index.html#/
+http://localhost:8080/swagger-ui/index.html#/
 
-http://localhost:8090/swagger-ui/index.html#/
 
 
 Se utilizo postman para las pruebas y utlizacion del proyecto
