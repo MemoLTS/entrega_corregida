@@ -22,9 +22,9 @@ backup,
 monitor
 
 Ejemplos :
-Delete: http://localhost:8083/api/v1/ecomarket/inventario/deleteprod/1
+Delete: http://localhost:8080/api/v1/ecomarket/inventario/deleteprod/1
 
-Post: http://localhost:8083/api/v1/ecomarket/inventario/addprod
+Post: http://localhost:8080/api/v1/ecomarket/inventario/addprod
 
 PUT
 [
