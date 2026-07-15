@@ -1,0 +1,160 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "UsuarioApplication",
+            "request": "launch",
+            "mainClass": "com.usuariosp.usuario.UsuarioApplication",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "TiendaApplication",
+            "request": "launch",
+            "mainClass": "com.tiendat.tienda.TiendaApplication",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Application",
+            "request": "launch",
+            "mainClass": "com.pruebas.unitarias.rutayseguimiento.Application",
+            "projectName": "com.pruebas-unitarias.rutayseguimiento"
+        },
+        {
+            "type": "java",
+            "name": "Application",
+            "request": "launch",
+            "mainClass": "com.pruebas.unitarias.pedido.Application",
+            "projectName": "com.pruebas-unitarias.pedido"
+        },
+        {
+            "type": "java",
+            "name": "Application",
+            "request": "launch",
+            "mainClass": "com.pruebas.unitarias.pagos.Application",
+            "projectName": "com.pruebas-unitarias.pagos"
+        },
+        {
+            "type": "java",
+            "name": "MonitorApplication",
+            "request": "launch",
+            "mainClass": "com.caso3.monitor.MonitorApplication",
+            "projectName": "com.monitor-monitor"
+        },
+        {
+            "type": "java",
+            "name": "Inventario",
+            "request": "launch",
+            "mainClass": "com.caso3.inventario.Inventario",
+            "projectName": "com.caso3-inventario"
+        },
+        {
+            "type": "java",
+            "name": "FacturacionMApplication",
+            "request": "launch",
+            "mainClass": "com.facturacion.facturacionm.FacturacionMApplication",
+            "projectName": "com.Facturacion-FacturacionM"
+        },
+        {
+            "type": "java",
+            "name": "Application",
+            "request": "launch",
+            "mainClass": "com.pruebas.unitarias.envios.Application",
+            "projectName": "com.pruebas-unitarias.envios"
+        },
+        {
+            "type": "java",
+            "name": "Catalogo",
+            "request": "launch",
+            "mainClass": "com.caso3.catalogo.Catalogo",
+            "projectName": "com.caso3-usuarios"
+        },
+        {
+            "type": "java",
+            "name": "BackupApplication",
+            "request": "launch",
+            "mainClass": "com.caso3.backup.BackupApplication",
+            "projectName": "com.caso3-backup-service"
+        },
+        {
+            "type": "java",
+            "name": "GatewayApplication",
+            "request": "launch",
+            "mainClass": "com.gateway.GatewayApplication",
+            "projectName": "com.gateway-GatewayEcoMarket"
+        },
+        {
+            "type": "java",
+            "name": "SoporteMApplication",
+            "request": "launch",
+            "mainClass": "com.soporte.soportem.SoporteMApplication",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "SoporteMApplication",
+            "request": "launch",
+            "mainClass": "com.SoporteMicroServicio.SoporteM.SoporteMApplication",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "MonitorApplication",
+            "request": "launch",
+            "mainClass": "com.caso3.monitor.MonitorApplication",
+            "projectName": "monitor"
+        },
+        {
+            "type": "java",
+            "name": "FacturacionMApplication",
+            "request": "launch",
+            "mainClass": "com.Facturacion.FacturacionM.FacturacionMApplication",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Catalogo",
+            "request": "launch",
+            "mainClass": "com.caso3.catalogo.Catalogo",
+            "projectName": "usuarios"
+        },
+        {
+            "type": "java",
+            "name": "BackupApplication",
+            "request": "launch",
+            "mainClass": "com.caso3.backup.BackupApplication",
+            "projectName": "backup-service"
+        },
+        {
+            "type": "java",
+            "name": "UnitariasproveedorApplication",
+            "request": "launch",
+            "mainClass": "com.pruebas.unitariasproveedor.UnitariasproveedorApplication",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "UsuarioApplication",
+            "request": "launch",
+            "mainClass": "com.UsuariosP.Usuario.UsuarioApplication",
+            "projectName": "Usuario"
+        },
+        {
+            "type": "java",
+            "name": "GatewayApplication",
+            "request": "launch",
+            "mainClass": "com.gateway.GatewayApplication",
+            "projectName": "GatewayEcoMarket"
+        },
+        {
+            "type": "jdk",
+            "request": "launch",
+            "name": "Launch Java App"
+        }
+    ]
+}
